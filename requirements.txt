@@ -1,0 +1,4 @@
+voila==0.3.6
+ipywidgets==7.6.3
+biopython==1.79
+nglview==2.7.7
