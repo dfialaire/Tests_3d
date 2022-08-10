@@ -2,4 +2,4 @@ voila==0.3.6
 ipywidgets==7.6.3
 biopython==1.79
 nglview==2.7
-jupyterlab-manager==3.4.4
+jupyterlab-requirements==0.16.2
