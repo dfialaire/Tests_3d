@@ -2,6 +2,3 @@ voila==0.3.6
 ipywidgets==7.6.3
 biopython==1.79
 nglview==2.7
-
-mdtraj==1.9.3
-nodejs==13.10.1
