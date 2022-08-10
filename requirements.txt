@@ -1,9 +1,8 @@
 voila==0.3.6
 ipywidgets==7.6.3
 biopython==1.79
-nglviewversion==1.1.7
-labversion==0.34.12
-labmanagerversion==0.37.4
-ipywidgetsversion==7.4.2
-mdtrajversion==1.9.3
-nodejsversion==13.10.1
+nglview==1.1.7
+lab==0.34.12
+labmanager==0.37.4
+mdtraj==1.9.3
+nodejs==13.10.1
